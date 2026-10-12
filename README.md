@@ -35,6 +35,7 @@ Whether you are an enterprise architect seeking SOC2/HIPAA-compliant managed clo
 - [🌐 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🏗️ Recommended Enterprise Stack Architectures](#️-recommended-enterprise-stack-architectures)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [##  Star History](#--star-history)
 - [📜 Disclaimer](#-disclaimer)
 
@@ -137,6 +138,27 @@ Contributions are warmly welcomed! Help keep this enterprise directory fresh and
    - For open-source repos: include link, shields.io star badge (`?style=social&color=white`) pointing to stargazers, and a concise enterprise-focused description. Maintain descending star order.
 4. 🚀 **Commit your changes** (`git commit -m "feat: add NewTool to enterprise ecosystem"`).
 5. 🔀 **Submit a Pull Request** with a brief summary of why the tool is essential for enterprise AI.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and utilizing this curated Enterprise AI ecosystem guide! Building and continuously updating comprehensive pricing data, market dynamics, and open-source project benchmarks requires dedicated time and care.
+
+If this repository has provided value to you or your organization, here is how you can help support it:
+
+- ⭐ **Star the repo** to help others discover this enterprise AI index.
+- 🍴 **Fork & share** it with your engineering teammates, data science groups, or on LinkedIn / X.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance and continuous updates directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
